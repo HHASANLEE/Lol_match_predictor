@@ -67,18 +67,7 @@ The model analyzes feature importance to identify which in-game metrics are most
 - Add early-game prediction capabilities
 - Create a web interface for predictions
 
-## License
-
-[Insert your chosen license here]
-
 ## Acknowledgements
 
 This project was developed using PyTorch and scikit-learn libraries.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
-
-## Contact
-
-[Your contact information]
